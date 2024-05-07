@@ -16,7 +16,7 @@
     <div class="block text-center text-2xl bg-red-500-100 uppercase">
       <span class="text-slate-600">{{ msg }}</span>
     </div>
-    <div>
+    <div class="box-border">
       <Gerador />
     </div>
   </div>
